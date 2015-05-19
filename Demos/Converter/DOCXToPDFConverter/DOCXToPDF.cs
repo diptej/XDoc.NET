@@ -11,7 +11,7 @@ namespace DOCXToPDFConverter
     {
         static void Main(string[] args)
         {
-            Gnostice.Documents.Framework.ActivateLicense("716E-5C8A-A157-DC33-3A20-5703-4792-B2C4-F393-B1E4-236D-2A56");
+            Gnostice.Documents.Framework.ActivateLicense("A635-604D-F82A-680E-A31A-7FEE-F0F9-2EE2");
             DocumentConverter converter = new DocumentConverter();
             converter.ConvertToFile(@".\..\..\..\Samples\DifferentAlignments.docx", @".\..\..\..\Samples\Converted\DifferentAlignments.pdf");
         }
