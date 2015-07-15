@@ -1,0 +1,13 @@
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\ConvertToTXT.exe.config
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\obj\Debug\ConvertToTXT.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\ConvertToTXT.exe
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\ConvertToTXT.pdb
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\OpenPop.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\XDocUnitTest.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\xdoc_dotnet_documentviewer.exe
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\TechTalk.SpecFlow.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\Gnostice.Documents.Controls.WinForms.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\bin\Debug\Gnostice.Documents.Controls.WPF.dll
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\obj\Debug\ConvertToTXT.exe
+D:\Work\GitHub Demos\ConvertToTXT\ConvertToTXT\obj\Debug\ConvertToTXT.pdb

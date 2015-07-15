@@ -1,0 +1,14 @@
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.exe.config
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.exe
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.pdb
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.exe
+D:\Work\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.pdb
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.exe.config
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.exe
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.pdb
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.exe
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\ConvertToJPEG.pdb
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\bin\Debug\log4net.dll
+\\192.168.20.111\Public\Team\RV team\GitHub Demos\ConvertToJPEG\ConvertToJPEG\obj\Debug\ConvertToJPEG.csprojResolveAssemblyReference.cache

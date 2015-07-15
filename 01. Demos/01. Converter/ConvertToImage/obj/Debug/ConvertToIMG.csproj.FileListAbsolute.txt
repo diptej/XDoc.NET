@@ -1,0 +1,7 @@
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\bin\Debug\ConvertToIMG.exe.config
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\bin\Debug\ConvertToIMG.exe
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\bin\Debug\ConvertToIMG.pdb
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\obj\Debug\ConvertToIMG.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\obj\Debug\ConvertToIMG.exe
+D:\Work\GitHub Demos\ConvertToIMG\ConvertToIMG\obj\Debug\ConvertToIMG.pdb

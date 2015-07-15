@@ -1,0 +1,10 @@
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\bin\Debug\ConvertToDOCX.exe.config
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\bin\Debug\ConvertToDOCX.exe
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\bin\Debug\ConvertToDOCX.pdb
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\obj\Debug\ConvertToDOCX.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\obj\Debug\ConvertToDOCX.exe
+D:\Work\GitHub Demos\ConvertToDOCX\ConvertToDOCX\obj\Debug\ConvertToDOCX.pdb
+D:\Work\Temp\Test Demos\GitHub\Demos\ConvertToDOCX\ConvertToDOCX\bin\Debug\ConvertToDOCX.exe.config
+D:\Work\Temp\Test Demos\GitHub\Demos\ConvertToDOCX\ConvertToDOCX\obj\Debug\ConvertToDOCX.exe
+D:\Work\Temp\Test Demos\GitHub\Demos\ConvertToDOCX\ConvertToDOCX\obj\Debug\ConvertToDOCX.pdb

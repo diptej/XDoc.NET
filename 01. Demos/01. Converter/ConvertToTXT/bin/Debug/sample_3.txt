@@ -1,0 +1,16 @@
+﻿Gnostice XtremeDocumentStudio .NET
+How to Share Google Drive Files or Documents
+
+If you have previously used document sharing in Google docs, you will find sharing on Google Drive more or less similar. The interface is simple, minimalist and easy in approach. So lets see how you can share your files on Google Drive with others.
+File Sharing in Google Drive
+Step 1: Open your  and upload the files you want to share using Google Drive. If the files are already uploaded to your account, select them and click the Share icon at the top. Alternatively, you can right-click on the file and select the share option form the context menu.
+
+Step 2: The popup window will show up the list of people who currently have access to your file and the current permission of the file on the web. Click on Change link to change the permission of the file and start sharing.
+
+Gnostice XtremeDocumentStudio .NET
+Gnostice XtremeDocumentStudio .NET
+<<Page Break>>
+
+If you are looking for secured sharing, keep the file as private and add email addresses of the people you want to share the stuff with. This would share the file only with specific people, and they will have to sign in to their account (Google account) to view the files. All the users you have shared your files with in private mode will be notified my an email regarding the same, and they can then access the files under the shared tab.
+
+Gnostice XtremeDocumentStudio .NET

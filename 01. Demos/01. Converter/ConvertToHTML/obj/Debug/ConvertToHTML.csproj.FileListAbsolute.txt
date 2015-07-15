@@ -1,0 +1,10 @@
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\ConvertToHTML.exe.config
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\ConvertToHTML.exe
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\ConvertToHTML.pdb
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\OpenPop.dll
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\xdoc_dotnet_documentviewer.exe
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\bin\Debug\Gnostice.Documents.Controls.WinForms.dll
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\obj\Debug\ConvertToHTML.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\obj\Debug\ConvertToHTML.exe
+D:\Work\GitHub Demos\ConvertToHTML\ConvertToHTML\obj\Debug\ConvertToHTML.pdb

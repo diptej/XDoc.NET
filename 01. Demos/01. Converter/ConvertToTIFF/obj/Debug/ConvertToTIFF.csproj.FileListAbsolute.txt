@@ -1,0 +1,6 @@
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\bin\Debug\ConvertToTIFF.exe.config
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\bin\Debug\ConvertToTIFF.exe
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\bin\Debug\ConvertToTIFF.pdb
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\obj\Debug\ConvertToTIFF.exe
+D:\Work\GitHub Demos\ConvertToTIFF\ConvertToTIFF\obj\Debug\ConvertToTIFF.pdb

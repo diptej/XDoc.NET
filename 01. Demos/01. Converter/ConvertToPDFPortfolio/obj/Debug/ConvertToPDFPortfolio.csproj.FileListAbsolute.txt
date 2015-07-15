@@ -1,0 +1,7 @@
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\bin\Debug\ConvertToPDFPortfolio.exe.config
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\bin\Debug\ConvertToPDFPortfolio.exe
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\bin\Debug\ConvertToPDFPortfolio.pdb
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\bin\Debug\log4net.dll
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\obj\Debug\ConvertToPDFPortfolio.csprojResolveAssemblyReference.cache
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\obj\Debug\ConvertToPDFPortfolio.exe
+D:\Work\GitHub Demos\ConvertToPDFPortfolio\ConvertToPDFPortfolio\obj\Debug\ConvertToPDFPortfolio.pdb
